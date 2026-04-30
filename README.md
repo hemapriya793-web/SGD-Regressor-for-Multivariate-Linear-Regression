@@ -8,12 +8,13 @@ To write a program to predict the price of the house and number of occupants in 
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
+```
 1. Start
 2.Read two numbers (A, B)
 3.Add A and B → Result
 4.Display Result
 5.Stop
-
+```
 
 ## Program:
 ```
